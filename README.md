@@ -4,7 +4,7 @@ TreasureMoment es una app desarrollada en SwiftUI que permite a los usuarios imp
 ### Retos como:
 
 ### 1. **Correcta visualización de la imagen en la lista:**
-Un challenge fue garantizar que las imágenes seleccionadas se mostraran correctamente, tanto en la lista de fotos como en el mapa. La dificultad radicaba en que, al trabajar con imágenes almacenadas como Data, tuve que asegurarme de que las imágenes se deserializaran y se presentaran adecuadamente en la vista. Además, era importante manejar correctamente el redibujado de la vista cuando se seleccionaba una nueva imagen.
+Un challenge fue garantizar que las imágenes seleccionadas se mostraran correctamente, tanto en la lista de fotos como en el mapa. La dificultad estaba en que, al trabajar con imágenes almacenadas como Data, tuve que asegurarme de que las imágenes se deserializaran y se presentaran adecuadamente en la vista. Además, era importante manejar correctamente el redibujado de la vista cuando se seleccionaba una nueva imagen.
 
 ### 2. **Ubicación de los botones "Start Tracking Location" y "Read Location":**
 La organización para no romper el orden de la interfaz fue otro challenge a destacar. Incluir los botones de "Start Tracking Location" y "Read Location" de manera que fueran accesibles y estéticamente agradables fue un desafío. Los botones necesitaban estar en una ubicación intuitiva, pero también debía asegurarme de que no interfieran con otras funcionalidades de la app, como la visualización del mapa.
