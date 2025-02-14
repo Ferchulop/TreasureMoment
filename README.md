@@ -9,7 +9,7 @@ Un challenge fue garantizar que las imágenes seleccionadas se mostraran correct
 ### 2. **Ubicación de los botones "Start Tracking Location" y "Read Location":**
 La organización para no romper el orden de la interfaz fue otro challenge a destacar. Incluir los botones de manera que fueran accesibles y estéticamente agradables fue un challenge. Los botones necesitaban estar en una ubicación intuitiva, pero también debía asegurarme de que no interfieran con otras funcionalidades de la app, como la visualización del mapa.
 
-### 3: **Visualizar la última localización disponible al importar la imagen:**
+### 3. **Visualizar la última localización disponible al importar la imagen:**
 El mayor challenge de todos fue asociar la ubicación geográfica con cada foto de manera correcta. Cuando se importaba una imagen, necesitaba asociar las coordenadas de la última localización disponible del iPhone a la foto, pero sólo si ya estaba disponible. Si la localización no estaba en ese momento, la app debía manejar la visualización de una ubicación predeterminada y, una vez que la localización real estuviera disponible, actualizarla automáticamente.
 
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-01-31 at 14 15 06 (1)](https://github.com/user-attachments/assets/471dabdc-0bec-4db2-ad0c-83ac25236185)
